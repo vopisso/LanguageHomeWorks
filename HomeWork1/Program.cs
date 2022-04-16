@@ -94,7 +94,7 @@ else
         {
             Console.Write(current);
         }
-        if(current % 2 == 0 && (current + 2) <= num)
+        if(current % 2 == 0 && (current + 2) <= num) // Этот блок if определяет последнее четное число в ряду, чтобы не ставить запятую в конце
         {
             Console.Write(", ");
         }
