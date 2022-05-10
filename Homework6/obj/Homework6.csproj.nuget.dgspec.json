@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj": {}
+    "F:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj": {}
   },
   "projects": {
-    "D:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj": {
+    "F:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj",
+        "projectUniqueName": "F:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj",
         "projectName": "Homework6",
-        "projectPath": "D:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj",
+        "projectPath": "F:\\GB\\Курсы\\HW\\C#\\Homework6\\Homework6.csproj",
         "packagesPath": "C:\\Users\\Oleg\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\Курсы\\HW\\C#\\Homework6\\obj\\",
+        "outputPath": "F:\\GB\\Курсы\\HW\\C#\\Homework6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oleg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

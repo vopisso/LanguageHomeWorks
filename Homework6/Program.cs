@@ -5,7 +5,7 @@
 1, -7, 567, 89, 223-> 3
 */
 
-/*
+
 int[] CreateArray(int size)
 {
     int[] array = new int[size];
@@ -44,7 +44,7 @@ else
     int[] newArray = CreateArray(num);
     Console.WriteLine("You entered " + ShowPositiveAmount(newArray) + " positive numbers");
 }
-*/
+
 
 //**********************************************************************************************
 
