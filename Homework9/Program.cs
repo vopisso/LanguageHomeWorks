@@ -10,7 +10,7 @@ int GetSumFromTo(int m, int n)
     {
         m += GetSumFromTo(m + 1, n);
     }
-        return m;
+    return m;
 }
 
 Console.Clear();
